@@ -7,7 +7,7 @@ var json = [
 	field05: "N/A",
 	field06: "Primato della Carità",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYeXVWVmdBZ0dUQXc&authuser=0"
+	field08: "LectioSito\1Cor13_PrimatoDellaCarita.docx"
 },
 {
 	field01: "2",
@@ -17,7 +17,7 @@ var json = [
 	field05: "N/A",
 	field06: "Non temere, piccolo gregge, perché è piaciuto al Padre vostro darvi il suo Regno",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYb2Z0Yk0xYkE4SXc&authuser=0"
+	field08: "LectioSito\Lc12-32_NonTemerePiccoloGreggePiaciutoPadreDarviRegno.docx"
 },
 {
 	field01: "3",
@@ -27,7 +27,7 @@ var json = [
 	field05: "N/A",
 	field06: "Io ti lodo, o Padre",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYVnVfT3pMa3dRa3c&authuser=0"
+	field08: "LectioSito\Lc10_21-22_IoTiLodoPadre.docx"
 },
 {
 	field01: "4",
@@ -37,7 +37,7 @@ var json = [
 	field05: "N/A",
 	field06: "Pregare alla presenza dello sposo con vino nuovo in otri nuovi",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYTHpKUVZFZ01iT0E&authuser=0"
+	field08: "LectioSito\Mc2_18-22_PregarePresenzaSposoVinoNuovoOtriNuovi.docx"
 },
 {
 	field01: "5",
@@ -47,27 +47,27 @@ var json = [
 	field05: "N/A",
 	field06: "C’è una risposta allo scontento endemico?",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYdGJqczQ4ck5WejQ&authuser=0"
+	field08: "LectioSito\Mt11_16-19_RispostaScontentoEndemico.docx"
 },
 {
 	field01: "6",
-	field02: "Zc",
+	field02: "Zac",
 	field03: "2,1-17",
 	field04: "N/A",
 	field05: "N/A",
 	field06: "Il Signore guida la storia e vuole la salvezza",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYUGk3cklhcmpVd00&authuser=0"
+	field08: "LectioSito\Zac2_1-17_SignoreGuidaStoriaVuoleSalvezza.docx"
 },
 {
 	field01: "7",
-	field02: "Zc",
+	field02: "Zac",
 	field03: "1,7-17",
 	field04: "N/A",
 	field05: "N/A",
 	field06: "Il Signore chiama",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYTGRyb3F6Ul84T3c&authuser=0"
+	field08: "LectioSito\Zac1_7-17_SignoreChiama.docx"
 },
 {
 	field01: "8",
@@ -77,7 +77,7 @@ var json = [
 	field05: "29° Settimana ciclo A",
 	field06: "Lunedì",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYYVVRZ2FFRlhFakk&authuser=0"
+	field08: "LectioSito\Ef2_1-10__Lc12_13-21_29maSettimanaCicloA_Lunedì.docx"
 },
 {
 	field01: "9",
@@ -87,7 +87,7 @@ var json = [
 	field05: "29° Settimana ciclo A",
 	field06: "Lunedì",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYYVVRZ2FFRlhFakk&authuser=0"
+	field08: "LectioSito\Ef2_1-10__Lc12_13-21_29maSettimanaCicloA_Lunedì.docx"
 },
 {
 	field01: "10",
@@ -97,7 +97,7 @@ var json = [
 	field05: "Beatitudini",
 	field06: "Essere beati in Gesù, avere e dare acqua viva",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYeVV1MW80VUdwMTQ&authuser=0"
+	field08: "LectioSito\Mt5_1-10_EssereBeatiInGesuAvereDareAcquaViva.docx"
 },
 {
 	field01: "11",
@@ -107,7 +107,7 @@ var json = [
 	field05: "Beatitudini",
 	field06: "Beati i miti perché erediteranno la terra",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYTmNfYXcydE5hbWc&authuser=0"
+	field08: "LectioSito\Mt5_5_BeatiMitiErediterannoTerra.docx"
 },
 {
 	field01: "12",
@@ -117,7 +117,7 @@ var json = [
 	field05: "Beatitudini",
 	field06: "Beati gli afflitti perché saranno consolati",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYblVZa2t4NkhXRUU&authuser=0"
+	field08: "LectioSito\Mt5_4_BeatiAfflittiSarannoConsolati.docx"
 },
 {
 	field01: "13",
@@ -127,7 +127,7 @@ var json = [
 	field05: "Beatitudini",
 	field06: "Beati i poveri in spirito",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYMkN3VURCWnJldDg&authuser=0"
+	field08: "LectioSito\Mt5_3_BeatiPoveriSpirito.docx"
 },
 {
 	field01: "14",
@@ -137,7 +137,7 @@ var json = [
 	field05: "Beatitudini",
 	field06: "Beatitudini: scoprire in profondità il senso della vita e della gioia",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYS3JnQ0ZvcWFCb3M&authuser=0"
+	field08: "LectioSito\BeatitudiniScoprireSensoVitaE_Gioia.docx"
 },
 {
 	field01: "15",
@@ -147,7 +147,7 @@ var json = [
 	field05: "Dimorare",
 	field06: "La definitiva dimora di Dio con gli uomini",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYRGVmQjFxTkY5NUk&authuser=0"
+	field08: "LectioSito\Ap21_1-8_DefinitivaDimoraDioConUomini.docx"
 },
 {
 	field01: "16",
@@ -157,7 +157,7 @@ var json = [
 	field05: "Dimorare",
 	field06: "La dimora di Dio con un popolo itinerante nel deserto",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYTWp6VDcyLTU5STA&authuser=0"
+	field08: "LectioSito\Es40_16-21__40_34-38_DimoraDiDioConPopoloItineranteDeserto.docx"
 },
 {
 	field01: "17",
@@ -167,7 +167,7 @@ var json = [
 	field05: "Dimorare",
 	field06: "La dimora di Dio con un popolo itinerante nel deserto",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYTWp6VDcyLTU5STA&authuser=0"
+	field08: "LectioSito\Es40_16-21__40_34-38_DimoraDiDioConPopoloItineranteDeserto.docx"
 },
 {
 	field01: "18",
@@ -177,7 +177,7 @@ var json = [
 	field05: "Dimorare",
 	field06: "Il dimorare Eucaristico",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYWFg0ZXNhYWhmTmc&authuser=0"
+	field08: "LectioSito\Gv6_51b-59_DimorareEucaristico.docx"
 },
 {
 	field01: "19",
@@ -187,7 +187,7 @@ var json = [
 	field05: "Dimorare",
 	field06: "Rimanere con Gesù, come tralcio nella vite",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYeGhFRUxBZk5PWlU&authuser=0"
+	field08: "LectioSito\Gv15_1-8_RimanereConGesuTralcioNellaVite.docx"
 },
 {
 	field01: "20",
@@ -197,7 +197,7 @@ var json = [
 	field05: "Dimorare",
 	field06: "Gesù abita nella sua parola",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYRWRsTEJKd1ZackU&authuser=0"
+	field08: "LectioSito\Gv1_35-51_GesuAbitaNellaSuaParola.docx"
 },
 {
 	field01: "21",
@@ -207,7 +207,7 @@ var json = [
 	field05: "Dimorare",
 	field06: "Rimasero con Gesù",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYTGZiaUdWRHlmQms&authuser=0"
+	field08: "LectioSito\Gv1_35-39_RimaseroConGesu.docx"
 },
 {
 	field01: "22",
@@ -217,7 +217,7 @@ var json = [
 	field05: "Dimorare",
 	field06: "Con Maria: dimorare e meditare nel cuore l evento-parola Gesù",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYbnp4VUllRS1nTnM&authuser=0"
+	field08: "LectioSito\Lc2_19__2_51_ConMariaDimorareMeditareGesu.docx"
 },
 {
 	field01: "23",
@@ -227,7 +227,7 @@ var json = [
 	field05: "Dimorare",
 	field06: "Con Maria: dimorare e meditare nel cuore l evento-parola Gesù",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYbnp4VUllRS1nTnM&authuser=0"
+	field08: "LectioSito\Lc2_19__2_51_ConMariaDimorareMeditareGesu.docx"
 },
 {
 	field01: "24",
@@ -237,7 +237,7 @@ var json = [
 	field05: "Dimorare",
 	field06: "Li chiamò e ne fece dodici per essere con Lui e per inviarli",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYVHFvNUQ3Q2dpNnc&authuser=0"
+	field08: "LectioSito\Mc3_7-19_ChiamoNeFeceDodiciEssereConLuiInviarli.docx"
 },
 {
 	field01: "25",
@@ -247,7 +247,7 @@ var json = [
 	field05: "Dimorare",
 	field06: "Li chiamò perché stessero con lui e per mandarli a predicare e liberare",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYQ3E0d2dwbV9VaWM&authuser=0"
+	field08: "LectioSito\Mc3_13-19_LiChiamoPerStareConLuiPredicareLiberare.docx"
 },
 {
 	field01: "26",
@@ -257,37 +257,37 @@ var json = [
 	field05: "Lo Spirito Santo nella nostra vita",
 	field06: "Lo Spirito e la dimensione comunitaria",
 	field07: "Suore",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYZlNEMjQxZ21kTVE&authuser=0"
+	field08: "LectioSito\1Cor12_1-27_LoSpiritoE_DimensioneComunitaria.docx"
 },
 {
 	field01: "27",
-	field02: "Gal",
+	field02: "Ga",
 	field03: "6,1-2",
 	field04: "1994",
 	field05: "Lo Spirito Santo nella nostra vita",
 	field06: "Lo Spirito e la libertà",
 	field07: "Suore",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYTlVMWFhManFPM0U&authuser=0"
+	field08: "LectioSito\Ga5_1__5_13-26__6_1-2_SpiritoE_Liberta.docx"
 },
 {
 	field01: "28",
-	field02: "Gal",
+	field02: "Ga",
 	field03: "5,13-26",
 	field04: "1994",
 	field05: "Lo Spirito Santo nella nostra vita",
 	field06: "Lo Spirito e la libertà",
 	field07: "Suore",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYTlVMWFhManFPM0U&authuser=0"
+	field08: "LectioSito\Ga5_1__5_13-26__6_1-2_SpiritoE_Liberta.docx"
 },
 {
 	field01: "29",
-	field02: "Gal",
+	field02: "Ga",
 	field03: "5,1",
 	field04: "1994",
 	field05: "Lo Spirito Santo nella nostra vita",
 	field06: "Lo Spirito e la libertà",
 	field07: "Suore",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYTlVMWFhManFPM0U&authuser=0"
+	field08: "LectioSito\Ga5_1__5_13-26__6_1-2_SpiritoE_Liberta.docx"
 },
 {
 	field01: "30",
@@ -297,7 +297,7 @@ var json = [
 	field05: "Lo Spirito Santo nella nostra vita",
 	field06: "Lo Spirito di Verità: Verità di Dio - Verità dell Uomo",
 	field07: "Suore",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYNzhDWDl2UGRjRGc&authuser=0"
+	field08: "LectioSito\Gv14_16-17__16_13-15_SpiritoVeritaDiDioDellUomo.docx"
 },
 {
 	field01: "31",
@@ -307,7 +307,7 @@ var json = [
 	field05: "Lo Spirito Santo nella nostra vita",
 	field06: "Lo Spirito di Verità: Verità di Dio - Verità dell Uomo",
 	field07: "Suore",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYNzhDWDl2UGRjRGc&authuser=0"
+	field08: "LectioSito\Gv14_16-17__16_13-15_SpiritoVeritaDiDioDellUomo.docx"
 },
 {
 	field01: "32",
@@ -317,7 +317,7 @@ var json = [
 	field05: "Lo Spirito Santo nella nostra vita",
 	field06: "Rinascere dallo Spirito",
 	field07: "Suore",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYTmxtVS1ZUnJMTFk&authuser=0"
+	field08: "LectioSito\Gv3_1-10_RinascereDalloSpirito.docx"
 },
 {
 	field01: "33",
@@ -327,7 +327,7 @@ var json = [
 	field05: "Lo Spirito Santo nella nostra vita",
 	field06: "Dio unse di Spirito Santo Gesù di Nazareth",
 	field07: "Suore",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYTkMtRF96TXlfTTQ&authuser=0"
+	field08: "LectioSito\Lc3_11-22_DioUnseSpiritoSantoGesu.docx"
 },
 {
 	field01: "34",
@@ -337,7 +337,7 @@ var json = [
 	field05: "Lo Spirito Santo nella nostra vita",
 	field06: "Una vita guidata dallo Spirito",
 	field07: "Suore",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYVVJaSHRHTnVCaEk&authuser=0"
+	field08: "LectioSito\Rm8_5-9__8_12-14_UnaVitaGuidataDalloSpirito.docx"
 },
 {
 	field01: "35",
@@ -347,7 +347,7 @@ var json = [
 	field05: "Lo Spirito Santo nella nostra vita",
 	field06: "Una vita guidata dallo Spirito",
 	field07: "Suore",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYVVJaSHRHTnVCaEk&authuser=0"
+	field08: "LectioSito\Rm8_5-9__8_12-14_UnaVitaGuidataDalloSpirito.docx"
 },
 {
 	field01: "36",
@@ -357,7 +357,7 @@ var json = [
 	field05: "Lo Spirito Santo nella nostra vita",
 	field06: "Introduzione",
 	field07: "Suore",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYa0lLYXdrWGZVTnM&authuser=0"
+	field08: "LectioSito\SpiritoSantoNellaNostraVita_Introduzione.docx"
 },
 {
 	field01: "37",
@@ -367,7 +367,7 @@ var json = [
 	field05: "Lo Spirito Santo nella nostra vita",
 	field06: "Conclusioni",
 	field07: "Suore",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYSUh3NjNzZ25LOTQ&authuser=0"
+	field08: "LectioSito\SpiritoSantoNellaNostraVita_Conclusioni.docx"
 },
 {
 	field01: "38",
@@ -377,7 +377,7 @@ var json = [
 	field05: "Maria",
 	field06: "Con Maria: dimorare e meditare nel cuore l evento-parola Gesù",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYbnp4VUllRS1nTnM&authuser=0"
+	field08: "LectioSito\Lc2_19__2_51_ConMariaDimorareMeditareGesu.docx"
 },
 {
 	field01: "39",
@@ -387,7 +387,7 @@ var json = [
 	field05: "Maria",
 	field06: "Con Maria: dimorare e meditare nel cuore l evento-parola Gesù",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYbnp4VUllRS1nTnM&authuser=0"
+	field08: "LectioSito\Lc2_19__2_51_ConMariaDimorareMeditareGesu.docx"
 },
 {
 	field01: "40",
@@ -397,7 +397,7 @@ var json = [
 	field05: "Maria",
 	field06: "Il Magnificat",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYVVJ4MlE4Y1RXYlE&authuser=0"
+	field08: "LectioSito\Lc1_39-56_Magnificat.docx"
 },
 {
 	field01: "41",
@@ -407,7 +407,7 @@ var json = [
 	field05: "Maria",
 	field06: "Annunciazione della Madre di Dio - Blagovescenie",
 	field07: "N/A",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYVi0td3d5UkVyMU0&authuser=0"
+	field08: "LectioSito\Lc1_26-38_Annunciazione.docx"
 },
 {
 	field01: "42",
@@ -417,7 +417,7 @@ var json = [
 	field05: "Frutti dello Spirito Santo",
 	field06: "Dominio di sé = Castità",
 	field07: "Laici",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYbkc2RHNibG84Zmc&authuser=0"
+	field08: "LectioSito\1Cor6_12-20_DominioDiSeUgualeCastita.docx"
 },
 {
 	field01: "43",
@@ -427,7 +427,7 @@ var json = [
 	field05: "Frutti dello Spirito Santo",
 	field06: "Amore",
 	field07: "Laici",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYZ0VFaWlSUDIwbFU&authuser=0"
+	field08: "LectioSito\1Gv4_7-11_Amore.docx"
 },
 {
 	field01: "44",
@@ -437,7 +437,7 @@ var json = [
 	field05: "Frutti dello Spirito Santo",
 	field06: "Pazienza",
 	field07: "Laici",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYOWcyZ0N3MWU3dTQ&authuser=0"
+	field08: "LectioSito\1Pt2_19-25_Pazienza.docx"
 },
 {
 	field01: "45",
@@ -447,7 +447,7 @@ var json = [
 	field05: "Frutti dello Spirito Santo",
 	field06: "Fedeltà",
 	field07: "Laici",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYczRjT2RUcXFNZ2c&authuser=0"
+	field08: "LectioSito\2Ts2_15-16__3_1-5_Fedelta.docx"
 },
 {
 	field01: "46",
@@ -457,7 +457,7 @@ var json = [
 	field05: "Frutti dello Spirito Santo",
 	field06: "Fedeltà",
 	field07: "Laici",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYczRjT2RUcXFNZ2c&authuser=0"
+	field08: "LectioSito\2Ts2_15-16__3_1-5_Fedelta.docx"
 },
 {
 	field01: "47",
@@ -467,7 +467,7 @@ var json = [
 	field05: "Frutti dello Spirito Santo",
 	field06: "Benevolenza e bontà",
 	field07: "Laici",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYamdhVVNyN2RLM1E&authuser=0"
+	field08: "LectioSito\Ef4_20-32__5,8-10_BenevolenzaBonta.docx"
 },
 {
 	field01: "48",
@@ -477,7 +477,7 @@ var json = [
 	field05: "Frutti dello Spirito Santo",
 	field06: "Benevolenza e bontà",
 	field07: "Laici",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYamdhVVNyN2RLM1E&authuser=0"
+	field08: "LectioSito\Ef4_20-32__5,8-10_BenevolenzaBonta.docx"
 },
 {
 	field01: "49",
@@ -487,7 +487,7 @@ var json = [
 	field05: "Frutti dello Spirito Santo",
 	field06: "Pace",
 	field07: "Laici",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYMm5sUHhCVEVaX2c&authuser=0"
+	field08: "LectioSito\Fil4_4-9_Pace.docx"
 },
 {
 	field01: "50",
@@ -497,7 +497,7 @@ var json = [
 	field05: "Frutti dello Spirito Santo",
 	field06: "Mitezza",
 	field07: "Laici",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYbk5uOVdVMG9VRk0&authuser=0"
+	field08: "LectioSito\Gc1_16-27__3_13-18_Mitezza.docx"
 },
 {
 	field01: "51",
@@ -507,7 +507,7 @@ var json = [
 	field05: "Frutti dello Spirito Santo",
 	field06: "Mitezza",
 	field07: "Laici",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYbk5uOVdVMG9VRk0&authuser=0"
+	field08: "LectioSito\Gc1_16-27__3_13-18_Mitezza.docx"
 },
 {
 	field01: "52",
@@ -517,7 +517,7 @@ var json = [
 	field05: "Frutti dello Spirito Santo",
 	field06: "Gioia",
 	field07: "Laici",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYVkt4Rl84QXhYLXc&authuser=0"
+	field08: "LectioSito\Gv15_11__16_21-24_Gioia.docx"
 },
 {
 	field01: "53",
@@ -527,7 +527,7 @@ var json = [
 	field05: "Frutti dello Spirito Santo",
 	field06: "Gioia",
 	field07: "Laici",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYVkt4Rl84QXhYLXc&authuser=0"
+	field08: "LectioSito\Gv15_11__16_21-24_Gioia.docx"
 },
 {
 	field01: "54",
@@ -537,7 +537,7 @@ var json = [
 	field05: "Frutti dello Spirito Santo",
 	field06: "Semplicità",
 	field07: "Laici",
-	field08: "https://drive.google.com/open?id=0BzQTPFg0jOkYelU5cmFwWEZwNVE&authuser=0"
+	field08: "LectioSito\Mc10_13-16_Semplicita.docx"
 },
 
 ];
