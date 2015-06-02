@@ -10,14 +10,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "1 Cor",
-				subfield02: "13",
-			},
+				subfield02: "13"
+			}
 		],
 	field05: [
 			{
-				subfield01: "N/A",
-			},
-		],
+				subfield01: "N/A"
+			}
+		]
 },
 {
 	field01: "2",
@@ -30,14 +30,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Lc",
-				subfield02: "12,32",
-			},
+				subfield02: "12,32"
+			}
 		],
 	field05: [
 			{
-				subfield01: "N/A",
-			},
-		],
+				subfield01: "N/A"
+			}
+		]
 },
 {
 	field01: "3",
@@ -50,14 +50,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Lc",
-				subfield02: "10,21-22",
-			},
+				subfield02: "10,21-22"
+			}
 		],
 	field05: [
 			{
-				subfield01: "N/A",
-			},
-		],
+				subfield01: "N/A"
+			}
+		]
 },
 {
 	field01: "4",
@@ -70,14 +70,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Mc",
-				subfield02: "2,18-22",
-			},
+				subfield02: "2,18-22"
+			}
 		],
 	field05: [
 			{
-				subfield01: "N/A",
-			},
-		],
+				subfield01: "N/A"
+			}
+		]
 },
 {
 	field01: "5",
@@ -90,14 +90,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Mt",
-				subfield02: "11,16-19",
-			},
+				subfield02: "11,16-19"
+			}
 		],
 	field05: [
 			{
-				subfield01: "N/A",
-			},
-		],
+				subfield01: "N/A"
+			}
+		]
 },
 {
 	field01: "6",
@@ -110,14 +110,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Zc",
-				subfield02: "2,1-17",
-			},
+				subfield02: "2,1-17"
+			}
 		],
 	field05: [
 			{
-				subfield01: "N/A",
-			},
-		],
+				subfield01: "N/A"
+			}
+		]
 },
 {
 	field01: "7",
@@ -130,14 +130,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Zc",
-				subfield02: "1,7-17",
-			},
+				subfield02: "1,7-17"
+			}
 		],
 	field05: [
 			{
-				subfield01: "N/A",
-			},
-		],
+				subfield01: "N/A"
+			}
+		]
 },
 {
 	field01: "8",
@@ -150,18 +150,18 @@ var json = [
 	field03: [
 			{
 				subfield01: "Ef",
-				subfield02: "2,1-10",
+				subfield02: "2,1-10"
 			},
 			{
 				subfield01: "Lc",
-				subfield02: "12,13-10",
-			},
+				subfield02: "12,13-10"
+			}
 		],
 	field05: [
 			{
-				subfield01: "29° Settimana ciclo A",
-			},
-		],
+				subfield01: "29° Settimana ciclo A"
+			}
+		]
 },
 {
 	field01: "10",
@@ -174,14 +174,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Mt",
-				subfield02: "5,1-10",
-			},
+				subfield02: "5,1-10"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Beatitudini",
-			},
-		],
+				subfield01: "Beatitudini"
+			}
+		]
 },
 {
 	field01: "11",
@@ -194,14 +194,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Mt",
-				subfield02: "5,5",
-			},
+				subfield02: "5,5"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Beatitudini",
-			},
-		],
+				subfield01: "Beatitudini"
+			}
+		]
 },
 {
 	field01: "12",
@@ -214,14 +214,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Mt",
-				subfield02: "5,4",
-			},
+				subfield02: "5,4"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Beatitudini",
-			},
-		],
+				subfield01: "Beatitudini"
+			}
+		]
 },
 {
 	field01: "13",
@@ -234,14 +234,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Mt",
-				subfield02: "5,3",
-			},
+				subfield02: "5,3"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Beatitudini",
-			},
-		],
+				subfield01: "Beatitudini"
+			}
+		]
 },
 {
 	field01: "14",
@@ -254,14 +254,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "N/A",
-				subfield02: "N/A",
-			},
+				subfield02: "N/A"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Beatitudini",
-			},
-		],
+				subfield01: "Beatitudini"
+			}
+		]
 },
 {
 	field01: "15",
@@ -274,14 +274,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Ap",
-				subfield02: "21,1-8",
-			},
+				subfield02: "21,1-8"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Dimorare",
-			},
-		],
+				subfield01: "Dimorare"
+			}
+		]
 },
 {
 	field01: "16",
@@ -294,18 +294,18 @@ var json = [
 	field03: [
 			{
 				subfield01: "Es",
-				subfield02: "40,34-38",
+				subfield02: "40,34-38"
 			},
 			{
 				subfield01: "Es",
-				subfield02: "40,16-21",
-			},
+				subfield02: "40,16-21"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Dimorare",
-			},
-		],
+				subfield01: "Dimorare"
+			}
+		]
 },
 {
 	field01: "18",
@@ -318,14 +318,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Gv",
-				subfield02: "6,51b-59",
-			},
+				subfield02: "6,51b-59"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Dimorare",
-			},
-		],
+				subfield01: "Dimorare"
+			}
+		]
 },
 {
 	field01: "19",
@@ -338,14 +338,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Gv",
-				subfield02: "15,1-8",
-			},
+				subfield02: "15,1-8"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Dimorare",
-			},
-		],
+				subfield01: "Dimorare"
+			}
+		]
 },
 {
 	field01: "20",
@@ -358,14 +358,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Gv",
-				subfield02: "1,35-51",
-			},
+				subfield02: "1,35-51"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Dimorare",
-			},
-		],
+				subfield01: "Dimorare"
+			}
+		]
 },
 {
 	field01: "21",
@@ -378,14 +378,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Gv",
-				subfield02: "1,35-39",
-			},
+				subfield02: "1,35-39"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Dimorare",
-			},
-		],
+				subfield01: "Dimorare"
+			}
+		]
 },
 {
 	field01: "22",
@@ -398,18 +398,18 @@ var json = [
 	field03: [
 			{
 				subfield01: "Lc",
-				subfield02: "2,51",
+				subfield02: "2,51"
 			},
 			{
 				subfield01: "Lc",
-				subfield02: "2,19",
-			},
+				subfield02: "2,19"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Dimorare",
-			},
-		],
+				subfield01: "Dimorare"
+			}
+		]
 },
 {
 	field01: "24",
@@ -422,14 +422,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Mc",
-				subfield02: "3,7-19",
-			},
+				subfield02: "3,7-19"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Dimorare",
-			},
-		],
+				subfield01: "Dimorare"
+			}
+		]
 },
 {
 	field01: "25",
@@ -442,14 +442,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Mc",
-				subfield02: "3,13-19",
-			},
+				subfield02: "3,13-19"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Dimorare",
-			},
-		],
+				subfield01: "Dimorare"
+			}
+		]
 },
 {
 	field01: "26",
@@ -462,14 +462,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "1 Cor",
-				subfield02: "12,1-27",
-			},
+				subfield02: "12,1-27"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Lo Spirito Santo nella nostra vita",
-			},
-		],
+				subfield01: "Lo Spirito Santo nella nostra vita"
+			}
+		]
 },
 {
 	field01: "27",
@@ -482,22 +482,22 @@ var json = [
 	field03: [
 			{
 				subfield01: "Gal",
-				subfield02: "6,1-2",
+				subfield02: "6,1-2"
 			},
 			{
 				subfield01: "Gal",
-				subfield02: "5,13-26",
+				subfield02: "5,13-26"
 			},
 			{
 				subfield01: "Gal",
-				subfield02: "5,1",
-			},
+				subfield02: "5,1"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Lo Spirito Santo nella nostra vita",
-			},
-		],
+				subfield01: "Lo Spirito Santo nella nostra vita"
+			}
+		]
 },
 {
 	field01: "30",
@@ -510,18 +510,18 @@ var json = [
 	field03: [
 			{
 				subfield01: "Gv",
-				subfield02: "14,13-15",
+				subfield02: "14,13-15"
 			},
 			{
 				subfield01: "Gv",
-				subfield02: "14,16-17",
-			},
+				subfield02: "14,16-17"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Lo Spirito Santo nella nostra vita",
-			},
-		],
+				subfield01: "Lo Spirito Santo nella nostra vita"
+			}
+		]
 },
 {
 	field01: "32",
@@ -534,14 +534,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Gv",
-				subfield02: "3,1-10",
-			},
+				subfield02: "3,1-10"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Lo Spirito Santo nella nostra vita",
-			},
-		],
+				subfield01: "Lo Spirito Santo nella nostra vita"
+			}
+		]
 },
 {
 	field01: "33",
@@ -554,14 +554,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Lc",
-				subfield02: "3,11-22",
-			},
+				subfield02: "3,11-22"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Lo Spirito Santo nella nostra vita",
-			},
-		],
+				subfield01: "Lo Spirito Santo nella nostra vita"
+			}
+		]
 },
 {
 	field01: "34",
@@ -574,18 +574,18 @@ var json = [
 	field03: [
 			{
 				subfield01: "Rm",
-				subfield02: "8,5-9",
+				subfield02: "8,5-9"
 			},
 			{
 				subfield01: "Rm",
-				subfield02: "8,12-14",
-			},
+				subfield02: "8,12-14"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Lo Spirito Santo nella nostra vita",
-			},
-		],
+				subfield01: "Lo Spirito Santo nella nostra vita"
+			}
+		]
 },
 {
 	field01: "36",
@@ -598,14 +598,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "N/A",
-				subfield02: "N/A",
-			},
+				subfield02: "N/A"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Lo Spirito Santo nella nostra vita",
-			},
-		],
+				subfield01: "Lo Spirito Santo nella nostra vita"
+			}
+		]
 },
 {
 	field01: "37",
@@ -618,14 +618,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "N/A",
-				subfield02: "N/A",
-			},
+				subfield02: "N/A"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Lo Spirito Santo nella nostra vita",
-			},
-		],
+				subfield01: "Lo Spirito Santo nella nostra vita"
+			}
+		]
 },
 {
 	field01: "38",
@@ -638,12 +638,12 @@ var json = [
 	field03: [
 			{
 				subfield01: "Lc",
-				subfield02: "2,51",
+				subfield02: "2,51"
 			},
 			{
 				subfield01: "Lc",
-				subfield02: "28,19",
-			},
+				subfield02: "28,19"
+			}
 		],
 	field05: [
 			{
@@ -651,8 +651,8 @@ var json = [
 			},
 			{
 				subfield01: "Dimorare"
-			},
-		],
+			}
+		]
 },
 {
 	field01: "40",
@@ -665,14 +665,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Lc",
-				subfield02: "1,38-56",
-			},
+				subfield02: "1,38-56"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Maria",
-			},
-		],
+				subfield01: "Maria"
+			}
+		]
 },
 {
 	field01: "41",
@@ -685,14 +685,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Lc",
-				subfield02: "1,26-38",
-			},
+				subfield02: "1,26-38"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Maria",
-			},
-		],
+				subfield01: "Maria"
+			}
+		]
 },
 {
 	field01: "42",
@@ -705,14 +705,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "1 Cor",
-				subfield02: "6,12-20",
-			},
+				subfield02: "6,12-20"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Frutti dello Spirito Santo",
-			},
-		],
+				subfield01: "Frutti dello Spirito Santo"
+			}
+		]
 },
 {
 	field01: "43",
@@ -725,14 +725,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "1 Gv",
-				subfield02: "4,7-11",
-			},
+				subfield02: "4,7-11"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Frutti dello Spirito Santo",
-			},
-		],
+				subfield01: "Frutti dello Spirito Santo"
+			}
+		]
 },
 {
 	field01: "44",
@@ -745,14 +745,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "1 Pt",
-				subfield02: "2,19-25",
-			},
+				subfield02: "2,19-25"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Frutti dello Spirito Santo",
-			},
-		],
+				subfield01: "Frutti dello Spirito Santo"
+			}
+		]
 },
 {
 	field01: "45",
@@ -765,18 +765,18 @@ var json = [
 	field03: [
 			{
 				subfield01: "2 Ts",
-				subfield02: "2,15-16",
+				subfield02: "2,15-16"
 			},
 			{
 				subfield01: "2 Ts",
-				subfield02: "3,1-5",
-			},
+				subfield02: "3,1-5"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Frutti dello Spirito Santo",
-			},
-		],
+				subfield01: "Frutti dello Spirito Santo"
+			}
+		]
 },
 {
 	field01: "47",
@@ -789,18 +789,18 @@ var json = [
 	field03: [
 			{
 				subfield01: "Ef",
-				subfield02: "4,20-32",
+				subfield02: "4,20-32"
 			},
 			{
 				subfield01: "Ef",
-				subfield02: "5,8-10",
-			},
+				subfield02: "5,8-10"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Frutti dello Spirito Santo",
-			},
-		],
+				subfield01: "Frutti dello Spirito Santo"
+			}
+		]
 },
 {
 	field01: "49",
@@ -813,14 +813,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Fil",
-				subfield02: "4,4-9",
-			},
+				subfield02: "4,4-9"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Frutti dello Spirito Santo",
-			},
-		],
+				subfield01: "Frutti dello Spirito Santo"
+			}
+		]
 },
 {
 	field01: "50",
@@ -833,18 +833,18 @@ var json = [
 	field03: [
 			{
 				subfield01: "Gc",
-				subfield02: "1,16-27",
+				subfield02: "1,16-27"
 			},
 			{
 				subfield01: "Gc",
-				subfield02: "3,13-18",
-			},
+				subfield02: "3,13-18"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Frutti dello Spirito Santo",
-			},
-		],
+				subfield01: "Frutti dello Spirito Santo"
+			}
+		]
 },
 {
 	field01: "52",
@@ -857,18 +857,18 @@ var json = [
 	field03: [
 			{
 				subfield01: "Gv",
-				subfield02: "15,11",
+				subfield02: "15,11"
 			},
 			{
 				subfield01: "Gv",
-				subfield02: "16,21-24",
-			},
+				subfield02: "16,21-24"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Frutti dello Spirito Santo",
-			},
-		],
+				subfield01: "Frutti dello Spirito Santo"
+			}
+		]
 },
 {
 	field01: "54",
@@ -881,15 +881,14 @@ var json = [
 	field03: [
 			{
 				subfield01: "Mc",
-				subfield02: "10,13-16",
-			},
+				subfield02: "10,13-16"
+			}
 		],
 	field05: [
 			{
-				subfield01: "Frutti dello Spirito Santo",
-			},
-		],
-},
-
+				subfield01: "Frutti dello Spirito Santo"
+			}
+		]
+}
 ];
 
