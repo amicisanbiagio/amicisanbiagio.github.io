@@ -192,7 +192,7 @@
 			<th>Tema</th>
 			<th>Destinatari</th>
                 </tr>
-		<tr ng-repeat="record in table | filter:initFilterData | orderBy:record.field01">
+		<tr ng-repeat="record in table | filter:initFilterData | orderBy:recordOrder">
                         <td><a target="_blank" ng-href={{record.field08}}>{{record.field06}}</a></td>
                         <td> <ul>
 				<li ng-repeat="field in record.field03">
