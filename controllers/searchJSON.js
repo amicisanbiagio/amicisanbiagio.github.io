@@ -28,14 +28,46 @@ searchLectio.controller("searchJSON", ['$scope', function($scope) {
         }
 
         $scope.filterData = function(record) {
+
+		var searchField03_01 = 0;
+		var searchField03_02 = 0;
+		var searchField05 = 0;
+
+		if( $scope.field02 == '__' ) {
+			searchField03_01 = 1;
+		} else {
+			angular.forEach(record.field03, function(item) {
+				if( item.subfield01 == $scope.field02 )
+					searchField03_01 = 1;
+			});
+		}
+
+		if( $scope.field03 == '__' ) {
+			searchField03_02 = 1;
+		} else {
+			angular.forEach(record.field03, function(item) {
+				if( item.subfield02 == $scope.field03 )
+					searchField03_02 = 1;
+			});
+		}
+
+		if( $scope.field05 == '__' ) {
+			searchField05 = 1;
+		} else {
+			angular.forEach(record.field05, function(item) {
+				if( item.subfield01 == $scope.field05 )
+					searchField05 = 1;
+			});
+		}
+
 		if( record.field01 == $scope.field01 || $scope.field01 == '__' )
-		if( record.field02 == $scope.field02 || $scope.field02 == '__' )
-		if( record.field03 == $scope.field03 || $scope.field03 == '__' )
 		if( record.field04 == $scope.field04 || $scope.field04 == '__' )
-		if( record.field05 == $scope.field05 || $scope.field05 == '__' )
 		if( record.field06 == $scope.field06 || $scope.field06 == '__' )
 		if( record.field07 == $scope.field07 || $scope.field07 == '__' )
 		if( record.field08 == $scope.field08 || $scope.field08 == '__' )
+		if( searchField03_01 == 1 )
+		if( searchField03_02 == 1 )
+		if( searchField05 == 1 )
 			return record;
 	}
 
@@ -61,7 +93,7 @@ searchLectio.controller("searchJSON", ['$scope', function($scope) {
 	}
 
 	$scope.citOrder = function(record) {
-		var str = record.field03;
+		var str = record;
 		var i = str.substring(0,str.lastIndexOf(","));
 		var last1 = (str.lastIndexOf("-") == -1) ? str.length : str.lastIndexOf("-");
 		var last2 = (str.lastIndexOf("b") == -1) ? last1 : str.lastIndexOf("b");
