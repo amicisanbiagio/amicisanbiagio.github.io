@@ -32,6 +32,7 @@ searchLectio.controller("searchJSON", ['$scope', function($scope) {
 		var searchField03_01 = 0;
 		var searchField03_02 = 0;
 		var searchField05 = 0;
+		var searchField06 = 0;
 
 		if( $scope.field02 == '__' ) {
 			searchField03_01 = 1;
@@ -60,14 +61,23 @@ searchLectio.controller("searchJSON", ['$scope', function($scope) {
 			});
 		}
 
+		if( $scope.field06 == '__' ) {
+			searchField06 = 1;
+		} else {
+			var splitext = $scope.field06.toLowerCase().split(/\s+/);
+			var regex = new RegExp( "(?=.*" + splitext.join(")(?=.*") + ")" );
+			if( regex.test( record.field06.toLowerCase() ) ) 
+				searchField06 = 1;
+		}
+
 		if( record.field01 == $scope.field01 || $scope.field01 == '__' )
 		if( record.field04 == $scope.field04 || $scope.field04 == '__' )
-		if( record.field06 == $scope.field06 || $scope.field06 == '__' )
 		if( record.field07 == $scope.field07 || $scope.field07 == '__' )
 		if( record.field08 == $scope.field08 || $scope.field08 == '__' )
 		if( searchField03_01 == 1 )
 		if( searchField03_02 == 1 )
 		if( searchField05 == 1 )
+		if( searchField06 == 1 )
 			return record;
 	}
 
