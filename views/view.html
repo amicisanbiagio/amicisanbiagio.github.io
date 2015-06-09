@@ -41,7 +41,7 @@
 	<ul class="dropdown-menu" role="menu">
 		<li><a ng-click="changeData('field03','__')">__</a></li>
 		<li ng-repeat="record in table | filter:filterData | extractUniqueSubField: 'field03':'subfield02' | orderBy:citOrder">
-			<a ng-click="changeResetData('field03','{{record}}')">{{record}}</a>
+			<a ng-click="changeData('field03','{{record}}')">{{record}}</a>
 		</li>
 	</ul>
 </div>
