@@ -103,11 +103,7 @@ searchLectio.controller("searchJSON", ['$scope', function($scope) {
 	}
 
 	$scope.citOrder = function(str) {
-		var i = str.substring(0,str.lastIndexOf(","));
-		var last1 = (str.lastIndexOf("-") == -1) ? str.length : str.lastIndexOf("-");
-		var last2 = (str.lastIndexOf("b") == -1) ? last1 : str.lastIndexOf("b");
-		var dec = str.substring(str.lastIndexOf(",")+1,last2);
-		return Number(i)+Number(dec)/100;
+		return Number(str.replace(',','.').replace(/[^0-9\.]+/g, ""));
 	}
 
 	$scope.recordOrder = function(record) {
