@@ -1625,14 +1625,6 @@ var json = [
 			},
 			{
 				"subfield01": "Lc",
-				"subfield02": "2,19"
-			},
-			{
-				"subfield01": "Lc",
-				"subfield02": "2,51"
-			},
-			{
-				"subfield01": "Lc",
 				"subfield02": "2,51"
 			}
 		],
@@ -2527,6 +2519,27 @@ var json = [
 			{
 				"subfield01": "Zc",
 				"subfield02": "1,7-17"
+			}
+		],
+	"field05": [
+			{
+				"subfield01": "N/A"
+			}
+		]
+},
+{
+	"field01": "139",
+	"field09": "Zac2_1-17_SignoreGuidaStoriaVuoleSalvezza.docx",
+	"field06": "Il Signore guida la storia e vuole la salvezza",
+	"field04": "N/A",
+	"field07": "Tutti",
+	"field10": "altre_lectio",
+	"field08": "http://NA",
+
+	"field03": [
+			{
+				"subfield01": "Zc",
+				"subfield02": "2,1-17"
 			}
 		],
 	"field05": [
